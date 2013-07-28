@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cp styles/cf_chat.css ~/Library/Application\ Support/Propane/styles/
+cp unsupported/caveatPatchor.js ~/Library/Application\ Support/Propane/unsupported/
