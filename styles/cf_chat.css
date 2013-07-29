@@ -77,6 +77,10 @@ td.body {
   border-left: 1px solid #efefef !important;
 }
 
+tr.you td {
+  background-color: #fafafa !important;
+}
+
 td.time {
   border-left: 1px solid #efefef !important;
 }
